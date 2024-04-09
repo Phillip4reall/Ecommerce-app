@@ -1,6 +1,6 @@
-# hey
+# Women Fashion Bag App
 
-A new Flutter project.
+This is a ecommerce app to buy a female execusive bags.
 
 ## Getting Started
 
